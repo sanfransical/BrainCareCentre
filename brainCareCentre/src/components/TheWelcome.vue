@@ -36,17 +36,11 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>社区文档</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
-    更多详细介绍请见<code>README.md</code>.
+    需要帮助?请访问我们的
+    <a href="https://github.com/sanfransical/BrainCareCentre/" target="_blank" rel="noopener">主页</a>,
+    <a href="https://github.com/sanfransical/BrainCareCentre/issues" target="_blank" rel="noopener">社区</a>或
+    <a href="https://github.com/sanfransical/BrainCareCentre/wiki" target="_blank" rel="noopener">官方文档</a>
+    更多详细介绍请见<code><a href="https://github.com/sanfransical/BrainCareCentre/blob/main/README.md" target="_blank" rel="noopener">README.md</a></code>.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -54,9 +48,6 @@ import SupportIcon from './icons/IconSupport.vue'
       <SupportIcon />
     </template>
     <template #heading>支持我们</template>
-
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    支持我们的项目,让更多人收益,只需一颗star--<a href="https://github.com/sanfransical/BrainCareCentre/" target="_blank" rel="noopener">成为支持者</a>
   </WelcomeItem>
 </template>
