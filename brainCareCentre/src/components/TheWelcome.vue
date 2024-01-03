@@ -5,6 +5,8 @@ import ToolingIcon from './icons/IconTooling.vue'
 import EcosystemIcon from './icons/IconEcosystem.vue'
 import CommunityIcon from './icons/IconCommunity.vue'
 import SupportIcon from './icons/IconSupport.vue'
+import { Button } from 'ant-design-vue';
+//Vue.use(Button);
 </script>
 
 <template>
@@ -14,7 +16,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <DocumentationIcon />
     </template>
     <template #heading>如何使用</template>
-
+    
     
   </WelcomeItem>
 
@@ -26,7 +28,7 @@ import SupportIcon from './icons/IconSupport.vue'
     大脑康复中心是一个开源平台,平台支持
     <a href="http://localhost:5174/" target="_blank" rel="noopener">网页端</a>,
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">安卓端</a>
-    与微信端
+    与 <button>微信端</button>
     <br />
   </WelcomeItem>
 
