@@ -1,2 +1,2 @@
 # BrainCareCentre
-I also don't know what I want to do.
+This is a test website for our shenghua competition.
