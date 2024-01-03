@@ -23,7 +23,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <EcosystemIcon />
     </template>
     <template #heading>软件生态</template>
-    该平台支持
+    大脑康复中心是一个开源平台,平台支持
     <a href="http://localhost:5174/" target="_blank" rel="noopener">网页端</a>,
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">安卓端</a>
     与微信端
